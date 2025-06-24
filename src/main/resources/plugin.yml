@@ -1,0 +1,4 @@
+name: TeyvatCharacter
+version: 1.0
+main: me.teyvat.TeyvatCharacter
+api-version: 1.20
